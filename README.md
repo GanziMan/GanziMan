@@ -34,9 +34,9 @@
 
 ### Contacts 📫
 
-* Github Repo Issue 
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
+* Portfolio-site: https://portfolio-bum.netlify.app
+* Instagram DM: @dev_.bum
+* Email: qjatn50089@gmail.com
 
   <!--<div align=center>-->
   
