@@ -12,10 +12,11 @@
   </em>  
 </p>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=GanziMan)](https://solved.ac/GanziMan))
+
 
 ![GanziMan's github stats](https://github-readme-stats.vercel.app/api?username=GanziMan&show_icons=true)
-    
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=GanziMan)](https://solved.ac/GanziMan)
     
 ### Online Judge 💻
 
