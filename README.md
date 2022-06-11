@@ -10,6 +10,29 @@
   </em>  
 </p>
 
+* 이름  
+**김범수** 	
+* 소속  
+**한림대학교 정보과학대학 소프트웨어융합학부 빅데이터 전공 / 융합 소프트웨어 전공**
+* email  
+qjatn50089@gmail.com
+* Instagram  
+@dev_.bum
+***
+## 👩‍💻Portfolio-site
+https://portfolio-bum.netlify.app
+***
+
+***
+## ⚙사용 가능 언어
+* JAVA
+* PYTHON
+* HTML5
+* CSS3
+* JavaScript
+
+
+***
 
 
 ![GanziMan's github stats](https://github-readme-stats.vercel.app/api?username=GanziMan&show_icons=true)
