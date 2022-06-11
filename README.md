@@ -1,4 +1,4 @@
-# Resume
+# Me
 
 ### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
