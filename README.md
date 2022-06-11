@@ -19,8 +19,6 @@
 ### Online Judge 💻
 
 * BOJ: [GanziMan](http://icpc.me/GanziMan](https://www.acmicpc.net/user/language/qjatn0955)
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=GanziMan)](https://solved.ac/GanziMan)
 
 <!--
 ### Project ⚡
