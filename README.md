@@ -21,7 +21,7 @@ qjatn50089@gmail.com
 ***
 ## 👩‍💻Portfolio-site
 https://portfolio-bum.netlify.app
-***
+
 
 ***
 ## ⚙사용 가능 언어
