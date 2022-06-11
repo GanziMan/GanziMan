@@ -1,12 +1,10 @@
 # Resume
-개인 이력사항
-
 
 ### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
 <p>
   <em>
-    ☕ 마신 <b>커피<b> 만큼 코드를 뽑아냅니다. 👨‍💻 <br>
+    사용자가 원하는 웹 서비스를 만들어 냅니다. 👨‍💻 <br>
     현재 한림대학교 웹 전공으로 재학중입니다 <br>
     <b>유용하고</b>✨ <b>편리한</b>🎉 웹 서비스를 만들고 싶습니다. 
   </em>  
@@ -20,7 +18,7 @@
     
 ### Online Judge 💻
 
-* BOJ: [GanziMan]([http://icpc.me/GanziMan](https://www.acmicpc.net/user/language/qjatn0955))
+* BOJ: [GanziMan](http://icpc.me/GanziMan](https://www.acmicpc.net/user/language/qjatn0955)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=GanziMan)](https://solved.ac/GanziMan)
 
@@ -40,8 +38,6 @@
 
   <!--<div align=center>-->
   
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
 
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
