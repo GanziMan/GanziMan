@@ -16,12 +16,11 @@
 
 ![GanziMan's github stats](https://github-readme-stats.vercel.app/api?username=GanziMan&show_icons=true)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=GanziMan)](https://solved.ac/GanziMan)
+
     
 ### Online Judge 💻
 
-* BOJ: [GanziMan](http://icpc.me/GanziMan)
-  * solvedac: [GanziMan](https://solved.ac/profile/GanziMan)
+* BOJ: [GanziMan]([http://icpc.me/GanziMan](https://www.acmicpc.net/user/language/qjatn0955))
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=GanziMan)](https://solved.ac/GanziMan)
 
