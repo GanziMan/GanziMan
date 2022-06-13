@@ -12,10 +12,8 @@
 **김범수** 	
 * 소속  
 **한림대학교 정보과학대학 소프트웨어융합학부 빅데이터 전공 / 융합 소프트웨어 전공**
-* email  
+* Email  
 qjatn50089@gmail.com
-* Instagram  
-@dev_.bum
 ***
 ## 👩‍💻Portfolio-site
 https://portfolio-bum.netlify.app
@@ -58,7 +56,7 @@ https://portfolio-bum.netlify.app
 ### Contacts 📫
 
 * Portfolio-site: https://portfolio-bum.netlify.app
-* Webfreelancer: 
+* Webfreelancer-site: https://kmong.com/@GanziMan 
 * Instagram: @dev_.bum
 
   <!--<div align=center>-->
