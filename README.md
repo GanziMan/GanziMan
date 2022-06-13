@@ -24,16 +24,22 @@ https://portfolio-bum.netlify.app
 
 
 ***
-## ⚙사용 가능 언어
-* JAVA
-* PYTHON
+## ⚙Front-end
 * HTML5
 * CSS3
 * JavaScript
-
-
+* Jquery
 ***
-
+## ⚙Back-end
+* JAVA
+* PYTHON
+* Django
+* Spring
+* Mysql
+***
+## ⚙Deployment
+* Netlify
+***
 
 ![GanziMan's github stats](https://github-readme-stats.vercel.app/api?username=GanziMan&show_icons=true)
 
