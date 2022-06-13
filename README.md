@@ -1,5 +1,3 @@
-# Me
-<h1>난 뽀뽀</h1>
 ### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
 
 <p>
@@ -60,8 +58,8 @@ https://portfolio-bum.netlify.app
 ### Contacts 📫
 
 * Portfolio-site: https://portfolio-bum.netlify.app
-* Instagram DM: @dev_.bum
-* Email: qjatn50089@gmail.com
+* Webfreelancer: 
+* Instagram: @dev_.bum
 
   <!--<div align=center>-->
   
