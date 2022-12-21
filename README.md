@@ -56,7 +56,7 @@ https://portfolio-bum.netlify.app
 
 * Portfolio-site: https://portfolio-bum.netlify.app
 * Webfreelancer-site: https://kmong.com/@GanziMan 
-* Instagram: @dev_.bum
+* Instagram: @study_ganziman
 
   <!--<div align=center>-->
   
