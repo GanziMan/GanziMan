@@ -24,12 +24,11 @@ https://portfolio-bum.netlify.app
 * HTML5
 * CSS3
 * JavaScript
-* Jquery
+* TypeScript
+* React
 ***
 ## ⚙Back-end
 * JAVA
-* PYTHON
-* Django
 * Spring
 * Mysql
 ***
