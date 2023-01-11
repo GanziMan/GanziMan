@@ -54,7 +54,7 @@ https://portfolio-bum.netlify.app
 
 ### Contacts 📫
 
-* Portfolio-site: https://portfolio-bum.netlify.app
+* Portfolio-site: [https://portfolio-bum.netlify.app](https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e)
 * Webfreelancer-site: https://kmong.com/@GanziMan 
 * Instagram: @study_ganziman
 
