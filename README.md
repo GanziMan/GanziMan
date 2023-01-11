@@ -16,7 +16,7 @@
 qjatn50089@gmail.com
 ***
 ## 👩‍💻Portfolio-site
-(https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e)
+https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e
 
 
 ***
@@ -54,7 +54,7 @@ qjatn50089@gmail.com
 
 ### Contacts 📫
 
-* Portfolio-site:(https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e)](https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e)
+* Portfolio-site: https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e
 * Webfreelancer-site: https://kmong.com/@GanziMan 
 * Instagram: @study_ganziman
 
