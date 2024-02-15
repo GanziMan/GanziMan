@@ -20,10 +20,6 @@
   </em>  
 </p>
 
-* 이름  
-**김범수** 	
-* Email  
-qjatn50089@gmail.com
 ***
 ## 👩‍💻Portfolio-site
 https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e
