@@ -29,40 +29,66 @@ qjatn50089@gmail.com
 https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e
 
 
-***
-## ⚙Front-end
-* TypeScript
-* JavaScript
-* Next.js
-* React.js
-* Tanstack-Query(react-query)
-***
-***
+## About Me
 
-![GanziMan's github stats](https://github-readme-stats.vercel.app/api?username=GanziMan&show_icons=true)
+---
 
+## **🎓 Major**
 
-    
-### Online Judge 💻
+`2017.02 ~ 2023.02` 
 
-* BOJ: [GanziMan](http://icpc.me/GanziMan](https://www.acmicpc.net/user/language/qjatn0955)
+한림대학교 융합소프트웨어학과 
 
-<!--
-### Project ⚡
+## **👩‍💻 Career  :**
 
-* Development Diary Blog([blog](https://kinetic27.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
--->
+`2024.02 ~ ing` 
+(주)아이스크림 아트 (프론트엔드 개발)
+
+`2023.02 ~ 2024.02` 
+(주)코드크레인 (프론트엔드 개발)
+
+`2022.06 ~ 2022.12` 
+(주)더존비즈온(인턴)  (프론트엔드,API 개발)
+
+`2022.03 ~ 2023.02`  크몽(Kmong) 웹 개발, 기능수정 및 추가 (외주)
+
+`2021.10 ~ 2022.02` 
+한림대학교 웹 사이트 유지보수  
+
+`2021.03 ~ 2021.12` 
+데이터베이스 연구실 (웹 개발)
+
+## 📚 **Education**
+
+`웹 프로그래밍` 
+
+`웹서버구축` 
+
+`데이터베이스` 
+
+`Java` 
+
+`Spring boot` 
+
+`의료 데이터베이스`  
+
+`JSP` 
+
+`웹 프레임워크 활용` 
+
+## 📝 **Used Tool & Skill**
+
+**Front-End**
+`React` `Next` `Javascript` `Typescript` `React-Query` `Redux` `Webpack`
+
+**Communication & Work Tool**
+
+`Wiki`  `Notion`  `Slack` `DataGrip` `DBeaver` `Github` `Postman` `WebStorm`
+
 
 ### Contacts 📫
 
 * Portfolio-site: https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e
 * Webfreelancer-site: https://kmong.com/@GanziMan 
-* Instagram: @study_ganziman
+* Instagram: @kbs_uu_memo
 
-  <!--<div align=center>-->
-  
-
-  
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
