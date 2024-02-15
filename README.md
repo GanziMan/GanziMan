@@ -1,7 +1,3 @@
-### Hello world!&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px">
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/44d6ba49-2e06-495e-ac27-9641723b1ec8/448037af-a97b-420b-8b7c-1c220426b1a0/Untitled.jpeg)
-
 ### Contact
 
 ✉️ : **qjatn50089@gmail.com**
