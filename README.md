@@ -18,8 +18,7 @@
 </p>
 
 ***
-## 👩‍💻Portfolio-site
-https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e
+
 
 
 ## About Me
