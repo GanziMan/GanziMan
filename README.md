@@ -59,6 +59,6 @@
 
 ### Contacts 📫
 
-* Portfolio-site: [https://devbum.notion.site/06e193b7da564a0d93e3b03fe626ab8e](https://devbum.notion.site/About-5d65e25ad8fe47aeb079c7b1c020cafe?pvs=4)
+* Portfolio-site: [https://devbum.notion.site/About-d0554f9dc6c743cfafc0a26e4db212c0?pvs=4](https://devbum.notion.site/About-d0554f9dc6c743cfafc0a26e4db212c0?pvs=4)
 * Instagram: @kbs_uu_memo
 
