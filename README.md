@@ -40,9 +40,3 @@
 
 `Wiki`  `Notion`  `Slack` `DataGrip` `DBeaver` `Github` `Postman` `WebStorm`
 
-
-### Contacts 📫
-
-* Portfolio-site: [https://devbum.notion.site/About-d0554f9dc6c743cfafc0a26e4db212c0?pvs=4](https://devbum.notion.site/About-d0554f9dc6c743cfafc0a26e4db212c0?pvs=4)
-* Instagram: @kbs_uu_memo
-
