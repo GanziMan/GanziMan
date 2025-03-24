@@ -12,7 +12,9 @@
 ## 📝 **Used Tool & Skill**
 
 **Front-End**
-`React` `Next` `Javascript` `Typescript` `React-Query` `Redux` `Webpack`
+`React` `Next` `Javascript` `Typescript`
+`React-Query` `Zustand` `Redux` 
+`MUI` `radix-ui` `shadcn` `tailwind` `storybook`
 
 **Communication & Work Tool**
 
