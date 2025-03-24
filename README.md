@@ -13,10 +13,12 @@
 
 **Front-End**
 `React` `Next` `Javascript` `Typescript`
+<br/>
 `React-Query` `Zustand` `Redux` 
+<br/>
 `MUI` `radix-ui` `shadcn` `tailwind` `storybook`
 
 **Communication & Work Tool**
 
-`Wiki`  `Notion`  `Slack` `DataGrip` `DBeaver` `Github` `Postman` `WebStorm`
+`Wiki`  `Notion`  `Slack` `DBeaver` `Github` `Postman` `WebStorm`
 
