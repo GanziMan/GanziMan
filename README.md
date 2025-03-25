@@ -1,25 +1,30 @@
-### Contact
+<h2>문제를 찾고, 개선점을 도출하는 것이 중요하다고 생각합니다.</h2>
+<ul>
+  <li>서비스의 성장과 함께 유지보수성과 개선을 지속적으로 고민하고 있습니다.</li>
+  <li>개발 과정에서 문제를 찾고, 개선점을 도출하는 것을 중요하게 생각하며, 자율성과 책임을 갖고 스스로 해결책을 찾고 책임을 집니다.</li>
+  <li>서비스의 발전에 맞춰 지속적인 개선을 고민하고, 문제 해결을 통해 더 나은 결과를 만들어내는 개발자가 되겠습니다.</li>
+</ul>
 
-✉️ : **qjatn50089@gmail.com**
-
-📞 : **010 - 2784 - 0955**
-
-<p>
-  <em>
-   👋🏻 안녕하세요, 김범수입니다. :)
-
-
-## 📝 **Used Tool & Skill**
-
-**Front-End**
+🛠️ <b>사이드 프로젝트</b>
 <br/>
-`React` `Next` `Javascript` `Typescript`
+| 프로젝트명                                                | 기간                          | Github          
+| --------------------------------------------------------- | ---------------------------- | -------------- |
+| 음악학원 출석부 서비스 체쿠리V2      | 2025.02                     | [🔗링크](https://github.com/Team-Pond/checkuree-client)      |
+| 음악학원 출석부 서비스 체쿠리V1                                                    | 2024.12.10 ~ 2024.12.13      | [🔗링크](https://github.com/FewMercy/checkuree)      |
+| 모바일 청첩장                               | 2024.09 ~ 2024.11                 | [🔗링크](https://github.com/GanziMan/LINK-U-client)      |
+
+
+🛠️ <b>기술스택</b>
 <br/>
-`React-Query` `Zustand` `Redux` 
 <br/>
-`MUI` `radix-ui` `shadcn` `tailwind` `storybook`
-
-**Communication & Work Tool**
-
-`Wiki`  `Notion`  `Slack` `DBeaver` `Github` `Postman` `WebStorm`
-
+<img src="https://camo.githubusercontent.com/717b5361e5e13fe7c6b5f0cf9aef950e0dd097540dab6a322edd74244732aa36/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
+<img src="https://camo.githubusercontent.com/822685b90a6a25f8ea86bbd961421bd31a6e72ed3ea5a0251980b7cc0a630ef3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
+<img src="https://camo.githubusercontent.com/4193fafb614664524aa2cefa0afd772903741d2ef246841f9e06ad4435b2ca97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73746f7279626f6f6b2d4646343738353f7374796c653d666f722d7468652d6261646765266c6f676f3d73746f7279626f6f6b266c6f676f436f6c6f723d7768697465"/>
+<img src="https://camo.githubusercontent.com/b95e41d5d2ca0db5855480125ff66b35052273e34d637d0cb9ec8ff0e23d905e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d677265793f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d333842324143"/>
+<br/>
+<img src="https://camo.githubusercontent.com/89f91c3b41619ac2618b70f9ef9aa99915cd1456e04ccc00fce25c8ed1ec3b41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
+<img src="https://camo.githubusercontent.com/4ec22ada9fa2b5dc3debaae65a96ae1c1fecbead5ac27280e0435168768b0698/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"/>
+<br/>
+<img src="https://camo.githubusercontent.com/fa138b65bf6c27650c28970b3a4805b5d669ffad28f9704637613ecb2e7cab84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742e6a732d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b"/>
+<img src="https://camo.githubusercontent.com/7eb783b07996c0d3138a296dfde8de0615a41d12b292092bb4df250edd145119/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6578742e6a73266c6f676f436f6c6f723d7768697465"/>
+<br/>
