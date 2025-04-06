@@ -13,7 +13,12 @@
 | 음악학원 출석부 서비스 체쿠리V1      | 2024.01 ~ 2024.03      | [🔗 링크](https://github.com/FewMercy/checkuree)      |  |
 | LINK-U                       | 2024.10 ~ 2024.11                 | [🔗 링크](https://github.com/GanziMan/LINK-U-client)      | [🔗 서비스](https://www.link-u.shop)  |
 
- 
+
+💬 <b>프로젝트 회고 & 아티클</b>
+- [🔗 [체쿠리] Next.js에서 React.js로의 여정](https://velog.io/@qjatn0955/%EC%B2%B4%EC%BF%A0%EB%A6%AC-Next.js%EC%97%90%EC%84%9C-React.js%EB%A1%9C%EC%9D%98-%EC%97%AC%EC%A0%95)
+- [🔗 [체쿠리] Cypress 도입기](https://velog.io/@qjatn0955/%EC%B2%B4%EC%BF%A0%EB%A6%AC-Cypress-%EB%8F%84%EC%9E%85%EA%B8%B0)
+- [🔗 [JS] 렉시컬 환경, 클로저 이게 뭘까?](https://velog.io/@qjatn0955/JS-%EB%A0%89%EC%8B%9C%EC%BB%AC-%ED%99%98%EA%B2%BD-%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%9D%B4%EA%B2%8C-%EB%AD%98%EA%B9%8C)
+<br/>
 
 🛠️ <b>기술스택</b>
 <br/>
