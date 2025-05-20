@@ -15,6 +15,7 @@
 
 
 💬 <b>프로젝트 회고 & 아티클</b>
+- [🔗 [Next.js] 다시 정리해보는 App Router, 이젠 좀 알 것 같다]([https://velog.io/@qjatn0955/Tanstack-Query-Optimistic-Update](https://velog.io/@qjatn0955/Next.js-%EB%8B%A4%EC%8B%9C-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%B4%EB%8A%94-App-Router-%EC%9D%B4%EC%A0%A0-%EC%A2%80-%EC%95%8C-%EA%B2%83-%EA%B0%99%EB%8B%A4))
 - [🔗 [React] Optimistic Update](https://velog.io/@qjatn0955/Tanstack-Query-Optimistic-Update)
 - [🔗 [Tanstack-Query] QueryKeyFactory 적용기](https://velog.io/@qjatn0955/Tanstack-Query-QueryKeyFactory-%EC%A0%81%EC%9A%A9%EA%B8%B0)
 - [🔗 [체쿠리] Next.js에서 React.js로의 여정](https://velog.io/@qjatn0955/%EC%B2%B4%EC%BF%A0%EB%A6%AC-Next.js%EC%97%90%EC%84%9C-React.js%EB%A1%9C%EC%9D%98-%EC%97%AC%EC%A0%95)
