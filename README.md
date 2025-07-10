@@ -8,7 +8,7 @@
 
 
 💬 <b>프로젝트 회고 & 아티클</b>
-- [🔗 [React] Optimistic Update](https://velog.io/@qjatn0955/TS-%ED%83%80%EC%9E%85%EC%9D%80-%EC%9E%98-%EC%8D%BC%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%96%88%EB%8A%94%EB%8D%B0-%EB%8B%A4%EC%8B%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-TypeScript)
+- [🔗 [TS] 다시 정리하는 TypeScript - 1](https://velog.io/@qjatn0955/TS-%ED%83%80%EC%9E%85%EC%9D%80-%EC%9E%98-%EC%8D%BC%EB%8B%A4%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%96%88%EB%8A%94%EB%8D%B0-%EB%8B%A4%EC%8B%9C-%EC%8B%9C%EC%9E%91%ED%95%9C-TypeScript)
 - [🔗 [Next.js] 다시 정리해보는 App Router, 이젠 좀 알 것 같다](https://velog.io/@qjatn0955/Next.js-%EB%8B%A4%EC%8B%9C-%EC%A0%95%EB%A6%AC%ED%95%B4%EB%B3%B4%EB%8A%94-App-Router-%EC%9D%B4%EC%A0%A0-%EC%A2%80-%EC%95%8C-%EA%B2%83-%EA%B0%99%EB%8B%A4)
 - [🔗 [React] Optimistic Update](https://velog.io/@qjatn0955/Tanstack-Query-Optimistic-Update)
 - [🔗 [Tanstack-Query] QueryKeyFactory 적용기](https://velog.io/@qjatn0955/Tanstack-Query-QueryKeyFactory-%EC%A0%81%EC%9A%A9%EA%B8%B0)
